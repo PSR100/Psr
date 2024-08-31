@@ -1,2 +1,3 @@
-# Psr
-My personal repository
+# About me
+
+Aspiring Data Analyst with a passion for turning data into actionable insights, proficient in Excel, SQL, and Power BI. I possess strong analytical skills and a solid background in statistical methods, enabling me to identify trends and patterns within large datasets. With experience in developing and maintaining interactive dashboards, conducting detailed customer analyses, and implementing data validation processes, I excel at presenting complex data findings clearly to stakeholders. My goal is to leverage my expertise to drive strategic business decisions and contribute to organizational growth within a dynamic and innovative team. Let's connect to explore opportunities in data analysis and business intelligence.
